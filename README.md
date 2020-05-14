@@ -1,6 +1,7 @@
 # Reddit-Visualizer
 A p5js project that visualizes my last 100 reddit posts that I liked in a 3D point array. Each point represents one subreddit, and the distance from the center is determined by the number of posts I liked from that subreddit.
 
+![Imgur[(https://i.imgur.com/wtdDOcV.png)
 ![Imgur](https://i.imgur.com/eEJkZ4h.png)
 
 The project does not use any external libraries to render the 3D graphics. 
